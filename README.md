@@ -3,10 +3,3 @@
 This project demonstrates the design and implementation of a **Data Warehouse using SQL Server**, focused on building an end-to-end analytics solution.
 
 It covers **data modeling, ETL processes, and analytical querying** to enable efficient data-driven insights.
-
-## Data Architecture
-
-## Project Overview
-
-## Repository Structure
-
