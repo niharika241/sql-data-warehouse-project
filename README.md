@@ -1,2 +1,12 @@
-# sql-data-warehouse-project
-Building a data warehose with SQL Server. Including ETL processes, data modeling, and analytics.
+# Data Warehouse and Analytics Project using SQL
+
+This project demonstrates the design and implementation of a **Data Warehouse using SQL Server**, focused on building an end-to-end analytics solution.
+
+It covers **data modeling, ETL processes, and analytical querying** to enable efficient data-driven insights.
+
+## Data Architecture
+
+## Project Overview
+
+## Repository Structure
+
